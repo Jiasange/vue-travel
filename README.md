@@ -1,4 +1,26 @@
 # vue-travel
-a vue mobile project, vue-router, axios, vuex.
 
-项目是仿去哪儿网站实现的一个简化版vue项目，分三部分：首页、城市查询选择页面和列表详情页面。
+> A Vue.js project vue-router, axios, vuex
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+```branch
+# build new branch dev
+git branch -b dev
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
