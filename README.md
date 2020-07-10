@@ -1,6 +1,6 @@
-# vue-travel
+# travel
 
-> A Vue.js project vue-router, axios, vuex
+> A Vue.js project
 
 ## Build Setup
 
